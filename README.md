@@ -1,1 +1,2 @@
-# csci3308-lab5
+# Assignment for CSCI3308 - Lab 5
+## Author: Ian Smith
